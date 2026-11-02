@@ -24,8 +24,6 @@ sketches/
   cup/1.png ...
   tree/1.png ...
 ```
-Можна також використати відкритий набір TU-Berlin (Eitz, Hays, Alexa, 2012; CC BY 4.0), змінивши
-`SKETCH_DIR` і `CATEGORIES` на початку `experiment.py`.
 
 ## Запуск
 ```
