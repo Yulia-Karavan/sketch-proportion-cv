@@ -1,0 +1,7 @@
+,0
+MSE,0.358
+SSIM,0.305
+Canny,0.307
+Sobel,0.318
+ViT_CLS,0.233
+ViT_patch,0.073
